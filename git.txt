@@ -1,1 +1,2 @@
 before commit 1
+before commit 2
